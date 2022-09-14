@@ -52,7 +52,7 @@ void setup() {
   // set up the LCD's number of columns and rows:
   lcd.begin(16, 2);
   // Print a message to the LCD.
-  lcd.print("I don't want to take my Spanish essay :)");
+  lcd.print("I <3 your guitar playing");
 }
 
 void loop() {
